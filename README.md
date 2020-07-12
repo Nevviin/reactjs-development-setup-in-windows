@@ -7,6 +7,8 @@ Refer the offical github by facebook to install/configure  create-react-app setu
 
 https://github.com/facebook/create-react-app#creating-an-app
 
+create-react-app is a toll chain refer more on this here https://blog.logrocket.com/getting-started-with-create-react-app-d93147444a27/
+
 
 1, Once the create-react-app  is installed on your machine as per above steps
 
