@@ -20,8 +20,7 @@ execute the command npx create-react-app my-app, this will take a while to set t
 The fodler structure for your project got created, refer the below screenshot 
 ![image](https://user-images.githubusercontent.com/11384742/87242545-fee4a500-c470-11ea-9fce-046c89669289.png)
 
-3, Navigate to the react application folder created in the  previous step and ,  Execute the npm run 
-This will launch the application start page on the local host
+3, Navigate to the react application folder created in the  previous step and ,  Execute the npm run This will launch the application start page on the local host
 ![image](https://user-images.githubusercontent.com/11384742/87242622-d01afe80-c471-11ea-81ce-73928d788487.png)
 
 ![image](https://user-images.githubusercontent.com/11384742/87242622-d01afe80-c471-11ea-81ce-73928d788487.png)
