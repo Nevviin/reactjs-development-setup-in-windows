@@ -3,7 +3,8 @@ setting up reactjs development environment in windows operating system
 
 
 
-Refer the offical github by facebook to isntall/configure  create-react-app setup 
+Refer the offical github by facebook to isntall/configure  create-react-app setup
+
 https://github.com/facebook/create-react-app#creating-an-app
 
 
